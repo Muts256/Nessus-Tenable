@@ -1,9 +1,9 @@
 <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Sentinel Configuration and Investigation</h2>
+<h2>👨‍💻 Vulnerability Management</h2>
 
-- <b> Sentinel </b>
-  - [Sentinel](https://github.com/Muts256/Sentinel)
+- <b> Nessus Tenable </b>
+  - [Tenable](https://github.com/Muts256/Vulnerability-Management)
 
 
 <h2> 🤳 Connect with me:</h2>

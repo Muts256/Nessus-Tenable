@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Vulnerability Management</h2>
 
-- <b> Nessus Tenable </b>
+- <b> Nessus Tenable Installation </b>
   - [Tenable](https://github.com/Muts256/Vulnerability-Management)
 
 

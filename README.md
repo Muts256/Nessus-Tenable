@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Vulnerability Management</h2>
+<h2>👨‍💻 Tenable </h2>
 
 - <b> Nessus Tenable Installation </b>
   - [Tenable](https://github.com/Muts256/Vulnerability-Management)

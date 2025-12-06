@@ -3,7 +3,7 @@
 <h2>👨‍💻 Tenable Installation and Configuration </h2>
 
 The objective of this lab  is to:
-  - Install and configure Nessus scanner on Kale Linux.
+  - Install and configure Nessus scanner on Kali Linux.
   - Configure scans and how to scan the network.
   - Generate reports.
 

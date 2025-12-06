@@ -185,7 +185,7 @@ Then click Generate Report
 
 If you click the export button, select the format desired, then this will be exported to the downloads folder.
 
-<h>Common Vulnerability Scoring System</h2>
+## Common Vulnerability Scoring System
 
 **CVSS (Common Vulnerability Scoring System)** is an industry-standard framework used to measure the severity of security vulnerabilities. It assigns a numeric score from **0.0 to 10.0**, which helps organisations understand how serious a vulnerability is and how quickly they should respond.
 

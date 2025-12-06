@@ -7,6 +7,14 @@ The objective of this lab  is to:
   - Configure scans and how to scan the network.
   - Generate reports.
 
+## Table of Contents
+
+- [Network Topology](#network-topology)
+- [Install Nessus Scanner on Kali Linux](#install-nessus-scanner-on-kali-linux)
+- [Vulnerability Scanning](#vulnerability-scanning)
+- [Generating Reports](#generating-reports)
+- [Common Vulnerability Scoring System](#common-vulnerability-scoring-system)
+
 <h2> Network Topology </h2>
 
 Technology used
@@ -163,7 +171,7 @@ To find out more about the vulnerability, click on it.
 A description of the vulnerability will provide insight into why it is flagged. A solution section will show how the vulnerability can be mitigated
 
 
-<h2> Generating a Report </h2>
+<h2> Generating Reports </h2>
 
 Select the scan for which the report is required on the top-right-hand, either select the report or the export button
 
@@ -176,6 +184,8 @@ Then click Generate Report
 ![image alt](https://github.com/Muts256/SNC-Public/blob/a08571c6da4be45d8c8e1132c88bb8381d927581/Images/Tenable/T37.png)
 
 If you click the export button, select the format desired, then this will be exported to the downloads folder.
+
+<h>Common Vulnerability Scoring System</h2>
 
 **CVSS (Common Vulnerability Scoring System)** is an industry-standard framework used to measure the severity of security vulnerabilities. It assigns a numeric score from **0.0 to 10.0**, which helps organisations understand how serious a vulnerability is and how quickly they should respond.
 

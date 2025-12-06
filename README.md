@@ -163,17 +163,84 @@ To find out more about the vulnerability, click on it.
 A description of the vulnerability will provide insight into why it is flagged. A solution section will show how the vulnerability can be mitigated
 
 
-<h2> Generation a Report </h2>
+<h2> Generating a Report </h2>
+
+Select the scan for which the report is required on the top-right-hand, either select the report or the export button
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T36.png)
 
 
+On the next screen, select the format of 3 options: HTML, PDF, or CSV, then the desired report.
+Then click Generate Report 
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/a08571c6da4be45d8c8e1132c88bb8381d927581/Images/Tenable/T37.png)
+
+If you click the export button, select the format desired, then this will be exported to the downloads folder.
+
+**CVSS (Common Vulnerability Scoring System)** is an industry-standard framework used to measure the severity of security vulnerabilities. It assigns a numeric score from **0.0 to 10.0**, which helps organisations understand how serious a vulnerability is and how quickly they should respond.
+
+CVSS is based on three metric groups: Base, Temporal, and Environmental.
+
+### **1. Base Metrics**
+Intrinsic, unchanging characteristics of the vulnerability  
+*Examples: how easy it is to exploit, impact on confidentiality, integrity, and availability*
+
+### **2. Temporal Metrics**
+Factors that may change over time  
+*Examples: availability of exploits, existence of a patch*
+
+### **3. Environmental Metrics**
+Impact in the context of your specific organisation  
+*Examples: how important the affected system is to your business*
+
+CVSS provides a consistent, objective way to prioritise remediation. A higher score means the vulnerability is more critical and typically requires faster mitigation.
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T35.png)
 
 
+## Interpretation
+cvss:3.0/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H
+
+This is a **CVSS v3.0 Base Score vector**, and each part describes a characteristic of the vulnerability.
+
+#### Attack Vector (AV:N) – **Network**
+The vulnerability can be exploited remotely over a network.  
+No physical or local access is required.
+
+#### Attack Complexity (AC:L) – **Low**
+The attack is straightforward.  
+No special conditions, race conditions, or unusual states are needed.
+
+#### Privileges Required (PR:N) – **None**
+The attacker does not need any credentials or permissions to exploit this vulnerability.
+
+#### User Interaction (UI:N) – **None**
+No user interaction is required.  
+The attack works without a victim clicking or doing anything.
+
+#### Scope (S:C) – **Changed**
+The vulnerability can break out of its security boundary.  
+Compromising one component can impact another system, service, or environment.  
+This usually increases severity significantly.
+
+#### Confidentiality Impact (C:H) – **High**
+Successful exploitation can lead to complete loss or disclosure of data.
+
+#### Integrity Impact (I:H) – **High**
+An attacker can fully modify or overwrite data.
+
+#### Availability Impact (A:H) – **High**
+An attacker can completely disrupt system availability (e.g., shutdown, crash, DoS).
 
 
+This is a **critical vulnerability** that is:
 
-
-
-
+- Remotely exploitable  
+- Easy to exploit  
+- Requires no privileges  
+- Requires no user interaction  
+- Allows crossing security boundaries  
+- Results in full compromise of confidentiality, integrity, and availability
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -253,6 +253,15 @@ This is a **critical vulnerability** that is:
 - Allows crossing security boundaries  
 - Results in full compromise of confidentiality, integrity, and availability
 
+## Lessons Learned
+
+- Gained practical experience installing and configuring the Nessus vulnerability scanner.  
+- Understood the importance of verifying downloads using SHA256 hashes to ensure file integrity.  
+- Learned how to activate Nessus plugins and adjust scanner settings for accurate results.  
+- Practised running vulnerability scans.  
+- Improved ability to interpret scan findings, including severity levels and CVSS scores.    
+- Learned how to generate, export, and review detailed vulnerability reports.  
+- Understood how vulnerability scanning fits into a broader security programme.
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="michael-musoke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

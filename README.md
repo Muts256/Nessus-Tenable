@@ -15,7 +15,7 @@ The objective of this lab  is to:
 - [Generating Reports](#generating-reports)
 - [Common Vulnerability Scoring System](#common-vulnerability-scoring-system)
 
-<h2> Network Topology </h2>
+<h2>Network Topology</h2>
 
 Technology used
   - Kali Linux
@@ -23,7 +23,7 @@ Technology used
   
     ![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T1.png)
 
-<h2> Install Nessus scanner on Kali Linux </h2>
+<h2>Install Nessus Scanner on Kali Linux</h2>
 
 On Kali Linux, open a browser and navigate to [Tenable](https://www.tenable.com/download/nessus) website. Select the latest Nessus version available, select Linux-Ubuntu-amd64 for the platform.
 
@@ -120,7 +120,7 @@ Updating the components and the plugins takes a long time. Wait for notification
 
 ![image alt](https://github.com/Muts256/SNC-Public/blob/05d0af8a6e9cf3c44b21d097af29e8496dc84cf0/Images/Tenable/T23.png)
 
-<h2> Vulnerability Scanning </h2> 
+<h2>Vulnerability Scanning</h2> 
 
 To create a New Scan, in the My Scan on the right-hand side, click on New Scan.
 
@@ -171,7 +171,7 @@ To find out more about the vulnerability, click on it.
 A description of the vulnerability will provide insight into why it is flagged. A solution section will show how the vulnerability can be mitigated
 
 
-<h2> Generating Reports </h2>
+<h2>Generating Reports</h2>
 
 Select the scan for which the report is required on the top-right-hand, either select the report or the export button
 

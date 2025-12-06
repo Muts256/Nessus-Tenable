@@ -110,7 +110,7 @@ A wheel will appear at the top of the Manual Software Update, keeping track of t
 Updating the components and the plugins takes a long time. Wait for notification of completion
 
 
-
+![image alt](https://github.com/Muts256/SNC-Public/blob/05d0af8a6e9cf3c44b21d097af29e8496dc84cf0/Images/Tenable/T23.png)
 
 <h2> Vulnerability Scanning </h2> 
 
@@ -118,7 +118,52 @@ To create a New Scan, in the My Scan on the right-hand side, click on New Scan.
 
 ![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T24.png)
 
+In the Scan Templates, select the type of scan to be done. In this case, a Basic Network Scan 
 
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T25.png)
+
+Under New Scan/Basic Network Scan. Fill in the required information. In the Basic – General Name of the scan, Description, Target (IP Addresses of the host to be scanned. These can be a single IP address or a range, including an entire network if the license purchased allows it.  Scans can be scheduled in the schedule section, and notifications.
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T26.png)
+
+
+Under the Discovery tab, Select Port scan
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T27.png)
+
+Under the Assessment tab
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T28.png)
+
+Under the Reports tab. Select the information that you would like to appear in the report.
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T29.png)
+
+Under the Advanced tab: select the default option
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T30.png)
+
+Save the settings. On the My Scans page, click on the play button to start a scan.
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T31.png)
+
+Wait for the scanning to complete. With the scan completed, navigate to the scan and click on it
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T32.png)
+
+Under the Vulnerabilities tab, the outcome of the scan will be displayed
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T33.png)
+
+
+To find out more about the vulnerability, click on it.
+
+![image alt](https://github.com/Muts256/SNC-Public/blob/7627f86c904e8746eda91998520e06542123492a/Images/Tenable/T34.png)
+
+A description of the vulnerability will provide insight into why it is flagged. A solution section will show how the vulnerability can be mitigated
+
+
+<h2> Generation a Report </h2>
 
 
 

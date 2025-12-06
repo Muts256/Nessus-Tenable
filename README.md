@@ -4,8 +4,9 @@
 
 The objective of this lab  is to:
   - Install and configure Nessus scanner on Kali Linux.
-  - Configure scans and how to scan the network.
+  - Configure scans and how to scan a network.
   - Generate reports.
+  - Interprete CVSS
 
 ## Table of Contents
 

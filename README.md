@@ -257,7 +257,7 @@ This is a **critical vulnerability** that is:
 
 ## Remediation
 
-The results of the vulnerability scan are communicated to system owners and stakeholders, with findings prioritised according to CVSS scores, business impact, and system criticality. Recommended remediation actions are proposed and agreed upon with the relevant owners. Upon completion of remediation activities, a follow-up scan was conducted to confirm closure of the identified vulnerabilities and reduce residual risk.
+The results of the vulnerability scan are communicated to system owners and stakeholders, with findings prioritised according to CVSS scores, business impact, and system criticality. Recommended remediation actions are proposed and agreed upon with the relevant owners. Upon completion of remediation activities, a follow-up scan is conducted to confirm closure of the identified vulnerabilities and reduce residual risk.
 
 ---
 
